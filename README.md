@@ -5,3 +5,5 @@ Input: 1. Bugdet; 2. Exact tax filing service; 3. Shareholder info (whether ther
 Output: emails written for each CPA within the budget and capable to file tax for C-Corps. Emails should contain #2、3、4、5、6 points of the input.
 Reason to automate:
 For people who are new to U.S. tax filing system without recommendation, it's hard to choose one CPA, it requires price and service comparison, also for special circumstances (foreign shareholders) a booked meeting with the CPA is required to specify related quotes. This will generate multiple emails that mention the same thing, but needs to change available time slot for the meeting.
+
+video link: https://youtu.be/9OF83vTcoFw
